@@ -3,3 +3,4 @@ https://web.archive.org/web/*/https://gpuopen.com/gaming-product/vulkan
 https://web.archive.org/web/*/https://community.amd.com/community/gaming/blog/2016/02/16/radeon-gpus-are-ready-for-the-vulkan-graphics-api
 https://web.archive.org/web/*/https://01.org/blogs/2016/intel-open-source-graphics-drivers-now-support-vulkan
 https://web.archive.org/web/*/https://software.intel.com/en-us/articles/rendering-objects-in-parallel-using-vulkan-apis
+https://web.archive.org/web/*/https://www.lunarg.com/frequently-asked-questions
