@@ -4,3 +4,5 @@ https://web.archive.org/web/*/https://community.amd.com/community/gaming/blog/20
 https://web.archive.org/web/*/https://01.org/blogs/2016/intel-open-source-graphics-drivers-now-support-vulkan
 https://web.archive.org/web/*/https://software.intel.com/en-us/articles/rendering-objects-in-parallel-using-vulkan-apis
 https://web.archive.org/web/*/https://www.lunarg.com/frequently-asked-questions
+https://developer.nvidia.com/sites/default/files/akamai/gameworks/VulkanDevDaypdaniel.pdf
+https://www.khronos.org/assets/uploads/developers/library/overview/Vulkan-1-1-Presentation_Mar18.pdf
