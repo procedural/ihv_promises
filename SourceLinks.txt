@@ -6,3 +6,6 @@ https://web.archive.org/web/*/https://software.intel.com/en-us/articles/renderin
 https://web.archive.org/web/*/https://www.lunarg.com/frequently-asked-questions
 https://developer.nvidia.com/sites/default/files/akamai/gameworks/VulkanDevDaypdaniel.pdf
 https://www.khronos.org/assets/uploads/developers/library/overview/Vulkan-1-1-Presentation_Mar18.pdf
+http://web.archive.org/web/20140324001030/http://www.amd.com/us/press-releases/Pages/amd-demonstrates-2014mar20.aspx
+http://web.archive.org/web/20140320204429/https://blogs.nvidia.com/blog/2014/03/20/directx-12/
+http://web.archive.org/web/20141007074510/https://software.intel.com/en-us/blogs/author/1048217
