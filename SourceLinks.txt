@@ -9,3 +9,4 @@ https://www.khronos.org/assets/uploads/developers/library/overview/Vulkan-1-1-Pr
 http://web.archive.org/web/20140324001030/http://www.amd.com/us/press-releases/Pages/amd-demonstrates-2014mar20.aspx
 http://web.archive.org/web/20140320204429/https://blogs.nvidia.com/blog/2014/03/20/directx-12/
 http://web.archive.org/web/20141007074510/https://software.intel.com/en-us/blogs/author/1048217
+https://www.khronos.org/assets/uploads/developers/library/2015-gdc/Khronos-Vulkan-GDC_Mar15.pdf
